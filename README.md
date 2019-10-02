@@ -139,9 +139,3 @@ If you use this code for your publications, please cite it as:
         year   = "2018",
         url    = "https://github.com/ahmetozlu/signature_extractor"
     }
-
-## Author
-Ahmet Özlü
-
-## License
-This system is available under the MIT license. See the LICENSE file for more info.
