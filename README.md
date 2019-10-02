@@ -129,13 +129,3 @@ See details in [here](http://scikit-image.org/docs/dev/install.html).
 
       python3 signature_extractor.py
 ---
-
-## Citation
-If you use this code for your publications, please cite it as:
-
-    @ONLINE{hse,
-        author = "Ahmet Özlü",
-        title  = "Overlapped handwritten signature extraction from scanned documents",
-        year   = "2018",
-        url    = "https://github.com/ahmetozlu/signature_extractor"
-    }
